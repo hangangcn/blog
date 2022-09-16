@@ -1,6 +1,6 @@
 ---
 layout: home
-title: hangang's blog
+title: Home Page
 permalink: /
 ---
 
