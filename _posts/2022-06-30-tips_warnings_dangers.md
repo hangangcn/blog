@@ -1,5 +1,5 @@
 ---
-title: Tips, Warnings, and Dangers
+title: 技巧、警告和危险提示
 author: Tao He
 date: 2022-06-30
 category: Jekyll
