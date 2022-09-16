@@ -1,7 +1,7 @@
 ---
-title: About
+title: 关于
 author: hangang
 date: 2022-09-16
 ---
 
-This is an about page.
+这是hangang.cn@gmail.com的博客
