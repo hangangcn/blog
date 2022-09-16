@@ -1,5 +1,5 @@
 ---
-title: Page with cover image
+title: 图像覆盖页面
 author: Tao He
 date: 2022-05-24
 category: Jekyll
