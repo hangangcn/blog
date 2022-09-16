@@ -1,9 +1,8 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
-category: Jekyll
-layout: post
+author: hangang
+date: 2022-09-16
 ---
 
-This is an contact page.
+[给hangang发邮件](mailto:hangang.cn@gmail.com)
+
