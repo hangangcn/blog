@@ -1,3 +1,10 @@
+---
+title: markdown写作与发布
+author: hangang
+date: 2022-09-17
+category: 知识
+layout: post
+---
 # markdown写作与发布
 
 ## 写作
@@ -20,7 +27,7 @@
 
 ### 工具
 
-> 用Typora导出为yyyy-mm-dd-filename.md格式的文件
+> 用Typora导出为yyyy-mm-dd-filename.md格式的文件，加上meta信息头
 
 ### 上传
 
